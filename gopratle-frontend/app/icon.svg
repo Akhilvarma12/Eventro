@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="16" fill="#F59E0B"/>
+
+  <!-- Calendar body -->
+  <rect x="14" y="18" width="36" height="28" rx="6" fill="white"/>
+
+  <!-- Calendar header -->
+  <rect x="14" y="18" width="36" height="8" rx="6" fill="#FCD34D"/>
+
+  <!-- Calendar rings -->
+  <rect x="22" y="12" width="4" height="8" rx="2" fill="white"/>
+  <rect x="38" y="12" width="4" height="8" rx="2" fill="white"/>
+
+  <!-- Event dot -->
+  <circle cx="32" cy="34" r="4" fill="#F59E0B"/>
+</svg>

@@ -110,7 +110,7 @@ export default function StepReviewSubmit({ formData }: Props) {
   const handleSubmit = async () => {
     try {
       
-      const res = await fetch("http://localhost:5000/api/requirements", {
+      const res = await fetch("https://gopratle-backend-kzn6.onrender.com/api/requirements", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
